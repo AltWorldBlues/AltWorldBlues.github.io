@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://AltWorldBlues.github.io
+title: AltWorld Blues
+email: jameseoliver@gmail.com
+author: James
+description: Blah
+paginate: 10
+google_analytics: 
